@@ -25,13 +25,13 @@ you can retrain the model by yourself with following command:
 
 Generate config files by ` python default_configs.py `
 
-run ` python main_two_stream.py  --config configs/some_config.json  --device gpu_id `
+run by ` python main_two_stream.py  --config configs/some_config.json  --device gpu_id `
 
 Trained models and logs will be saved in the `result` folder
 
-test ` python eval.py `
+test by ` python eval.py `
 
-test one model ` python predict.py  --config configs/some_config.json  --device gpu_id `
+test one model by ` python predict.py  --config configs/some_config.json  --device gpu_id `
 
 Our model adapted form [DiffAct](https://github.com/Finspire13/DiffAct).
 
