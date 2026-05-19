@@ -23,8 +23,11 @@ Extract features of 50salads, GTEA and Breakfast provided by [Br-Prompt](https:/
 ## Train your own model
 you can retrain the model by yourself with following command.
 
-```bash
-python main.py --action=train --dataset=50salads/gtea/breakfast --split=1/2/3/4
-python main.py --action=predict --dataset=50salads/gtea/breakfast --split=1/2/3/4
-```
-Our model adapted form [ASFormer](https://github.com/ChinaYi/ASFormer).
+Generate config files by ` python default_configs.py `
+run ` python main_two_stream.py  --config configs/some_config.json  --device gpu_id `
+Trained models and logs will be saved in the `result` folder
+test ` python eval.py `
+test one model ` python predict.py  --config configs/some_config.json  --device gpu_id `
+Our model adapted form [DiffAct](https://github.com/Finspire13/DiffAct).
+
+## Citation
