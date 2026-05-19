@@ -3,8 +3,7 @@
 [**论文链接 / 2s-DAS: Two-Stream Diffusion with Multi-Modal Fusion for Temporal Action Segmentation**](https://your_paper_link_here)
 
 ## Introduction
-This project is an open-source implementation for **2s-DAS: Two-Stream Diffusion with Multi-Modal Fusion for Temporal Action Segmentation**, including full training code, inference scripts, and dataset. It aims to provide an efficient and 
-reproducible research framework for temporal action segmentation.
+This project is an open-source implementation for **2s-DAS: Two-Stream Diffusion with Multi-Modal Fusion for Temporal Action Segmentation**, including full training code, inference scripts, and dataset. It aims to provide an efficient and reproducible research framework for temporal action segmentation.
 
 ## Environment Setup
 - Python == 3.8
