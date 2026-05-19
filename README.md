@@ -15,7 +15,7 @@ reproducible research framework for temporal action segmentation.
 
 The dataset is available at the links above.
 
-Raw video files are needed to extract features. Please download the datasets with RGB videos from the official websites ([Breakfast](https://serre-lab.clps.brown.edu/resource/breakfast-actions-dataset/) / [GTEA](https://cbs.ic.gatech.edu/fpv/) /[50Salads](https://cvip.computing.dundee.ac.uk/datasets/foodpreparation/50salads/)) and save them under the folder ./data/(name_dataset). 
+Raw video files are needed to extract features. Please download the datasets with RGB videos from the official websites ([Breakfast](https://serre.lab.brown.edu/breakfast-actions-dataset.html) / [GTEA](https://cbs.ic.gatech.edu/fpv/) /[50Salads](https://cvip.computing.dundee.ac.uk/datasets/foodpreparation/50salads/)) and save them under the folder ./data/(name_dataset). 
   
 ## Extract Features
 Extract features of 50salads, GTEA and Breakfast provided by [Br-Prompt](https://github.com/ttlmh/Bridge-Prompt) and [I3D](https://github.com/piergiaj/pytorch-i3d).
