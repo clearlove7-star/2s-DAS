@@ -21,7 +21,7 @@ Raw video files are needed to extract features. Please download the datasets wit
 Extract features of 50salads, GTEA and Breakfast provided by [Br-Prompt](https://github.com/ttlmh/Bridge-Prompt) and [I3D](https://github.com/piergiaj/pytorch-i3d).
 
 ## Train your own model
-you can retrain the model by yourself with following command.
+you can retrain the model by yourself with following command:
 
 Generate config files by ` python default_configs.py `
 
