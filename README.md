@@ -7,9 +7,9 @@ This project is an open-source implementation for **2s-DAS: Two-Stream Diffusion
 reproducible research framework for temporal action segmentation.
 
 ## Environment Setup
-- Python == 3.9
-- PyTorch == 2.0.1
-- Cuda == 11.8
+- Python == 3.8
+- PyTorch == 1.10
+- Cuda == 11.3
 
 ## Dataset Download
 
